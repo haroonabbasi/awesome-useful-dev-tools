@@ -27,3 +27,8 @@ List of open source platforms
 ### Data Analysis or Visualizatoin <a href="data-anlaytics"></a> [&#x2191;](#toc)
 
 * Matomo [https://github.com/matomo-org/matomo?ref=stackshare]
+
+
+### Awesome
+
+* Awesome-stack [https://awesomestacks.dev/]

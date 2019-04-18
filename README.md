@@ -22,6 +22,7 @@ List of open source platforms
 * Redash [https://github.com/getredash/redash]
 * Metabase [https://github.com/metabase/metabase?ref=stackshare]
 * Superset [https://github.com/apache/incubator-superset?ref=stackshare]
+* cube.js - Data visualiztion Framework [https://github.com/statsbotco/cube.js]
 
 ### Data Analysis or Visualizatoin <a href="data-anlaytics"></a> [&#x2191;](#toc)
 

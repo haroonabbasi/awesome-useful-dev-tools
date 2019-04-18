@@ -19,3 +19,4 @@ List of open source platforms
 ### Data Analysis or Visualizatoin <a href="data-visualization"></a> [&#x2191;&nbsp;&#x2191;&nbsp;&#x2191;](#toc)
 
 * Redash [https://github.com/getredash/redash]
+* Metabase [https://github.com/metabase/metabase?ref=stackshare]

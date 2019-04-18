@@ -21,6 +21,7 @@ List of open source platforms
 
 * Redash [https://github.com/getredash/redash]
 * Metabase [https://github.com/metabase/metabase?ref=stackshare]
+* Superset [https://github.com/apache/incubator-superset?ref=stackshare]
 
 ### Data Analysis or Visualizatoin <a href="data-anlaytics"></a> [&#x2191;](#toc)
 
